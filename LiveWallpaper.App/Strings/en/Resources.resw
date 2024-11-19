@@ -121,10 +121,10 @@
     <value>An open source Windows10 wallpaper software that supports live wallpaper. the source code : https://github.com/giant-app/LiveWallpaper</value>
   </data>
   <data name="ApplicationDisplayName" xml:space="preserve">
-    <value>Live Wallpaper 2</value>
+    <value>Live Wallpaper by Giantapp</value>
   </data>
   <data name="PackageDisplayName" xml:space="preserve">
-    <value>Live Wallpaper 2</value>
+    <value>Live Wallpaper by Giantapp</value>
   </data>
   <data name="PublisherDisplayName" xml:space="preserve">
     <value>Giantapp Studio</value>

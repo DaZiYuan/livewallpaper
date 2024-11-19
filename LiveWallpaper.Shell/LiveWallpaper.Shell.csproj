@@ -6,7 +6,7 @@
 		<UseWPF>true</UseWPF>
 		<SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
 		<AssemblyName>LiveWallpaper2</AssemblyName>
-		<Version>2.6.3.0</Version>
+		<Version>2.6.4.0</Version>
 		<Platforms>x86;x64</Platforms>
 		<ApplicationIcon>Assets\logo128.ico</ApplicationIcon>
 		<ApplicationManifest>app.manifest</ApplicationManifest>

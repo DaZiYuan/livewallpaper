@@ -121,10 +121,10 @@
     <value>一个开源的Windows10壁纸软件，支持动态壁纸。 源代码： https://github.com/giant-app/LiveWallpaper</value>
   </data>
   <data name="ApplicationDisplayName" xml:space="preserve">
-    <value>巨应壁纸2</value>
+    <value>巨应动态壁纸</value>
   </data>
   <data name="PackageDisplayName" xml:space="preserve">
-    <value>巨应壁纸2</value>
+    <value>巨应动态壁纸</value>
   </data>
   <data name="PublisherDisplayName" xml:space="preserve">
     <value>巨应工作室</value>

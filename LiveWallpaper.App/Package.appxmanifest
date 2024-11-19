@@ -8,7 +8,7 @@
   xmlns:com="http://schemas.microsoft.com/appx/manifest/com/windows10"
   xmlns:desktop="http://schemas.microsoft.com/appx/manifest/desktop/windows10"
   IgnorableNamespaces="uap mp rescap com desktop">
-  <Identity Name="24765mscoder.107453A6A4A17" Publisher="CN=49BC8659-1B4C-4520-B1FB-ED98CFA366C4" Version="2.6.3.0" />
+  <Identity Name="24765mscoder.47921C962EDAD" Publisher="CN=49BC8659-1B4C-4520-B1FB-ED98CFA366C4" Version="2.6.4.0" />
   <Properties>
     <DisplayName>ms-resource:Resources/PackageDisplayName</DisplayName>
     <PublisherDisplayName>Giantapp Studio</PublisherDisplayName>
