@@ -36,7 +36,7 @@
     "cmdk": "^0.2.1",
     "jotai": "^2.8.3",
     "lucide-react": "^0.390.0",
-    "next": "14.2.15",
+    "next": "14.2.21",
     "next-themes": "^0.3.0",
     "react": "^18",
     "react-dom": "^18",
